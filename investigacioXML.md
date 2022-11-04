@@ -1,11 +1,8 @@
 # MP03_UF5
-
-
 # Com passar de XML a JAVA
 
 
-# DOM:
-- Qué és?
+# DOM
 DOM parser is a tree-based API. A tree-based API is centered around a tree structure and therefore provides interfaces on components of a tree (which is a DOM document) such as Document interface,Node interface, NodeList interface, Element interface, Attr interface and so on.
 
 A DOM parser creates a tree structure in memory from the input document and then waits for requests from client. A DOM parser always serves the client application with the entire document no matter how much is actually needed by the client. With DOM parser, method calls in client application have to be explicit and forms a kind of chained method calls.
@@ -29,11 +26,7 @@ Program Output:
 </p>
 
 
-- Com funciona?
-- Classes necessàries
-- Excepcions que s'han de controlar
-- Codi d'exemple de lectura des de fitxer
-- Codi d'exemple d'escriptura a fitxer
+
 
 # SAX:
 
@@ -97,18 +90,20 @@ XPath (XML Path Language) is a language that allows you to build expressions tha
 - Què puc fer amb XPath?
 XPath stands for XML Path Language. It uses a non-XML syntax to provide a flexible way of addressing (pointing to) different parts of an XML document. It can also be used to test addressed nodes within a document to determine whether they match a pattern or not.
 
+
 - Posa un exemple de com consultar els CDs anteriors a 1990
 
 
 # XQuery:
 - Què és XQuery?
-XQuery is a query language that allows querying and extracting information stored in XML format.
-It could be said that XQuery is to XML the same as SQL is to relational databases
+XQuery is a query language that allows querying and extracting information stored in XML format. It could be said that XQuery is to XML the same as SQL is to relational databases
 
 - Què puc fer amb XQuery?
 XQuery was devised primarily as a query language for data stored in XML form. So its main role is to get information out of XML databases — this includes relational databases that store XML data, or that present an XML view of the data they hold.
 
 - Posa un exemple de com consultar els CDs més barats de 10$
+
+
 
 
 # REFERENCES:
