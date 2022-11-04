@@ -6,7 +6,13 @@
 
 # DOM:
 - Qué és?
-DOM is a tree-based interface that models an XML document as a tree of nodes, upon which the application can search for nodes, read their information, and update the contents of the nodes. SAX is an event-driven interface. The application registers with the parser various event handlers.
+DOM is a tree-based interface that models an XML document as a tree of nodes, upon which the application can search for nodes, read their information, and update the contents of the nodes.
+
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200001635-86f2316a-2341-4e27-9926-141edbd132fd.png>
+</p>
+     
+
 - Com funciona?
 - Classes necessàries
 - Excepcions que s'han de controlar
@@ -14,17 +20,10 @@ DOM is a tree-based interface that models an XML document as a tree of nodes, up
 - Codi d'exemple d'escriptura a fitxer
 
 # SAX:
-- Qué és?
-DOM is a tree-based interface that models an XML document as a tree of nodes, upon which the application can search for nodes, read their information, and update the contents of the nodes. SAX is an event-driven interface. The application registers with the parser various event handlers.
 
-Simple API for XML
+SAX is an event-driven interface. The application registers with the parser various event handlers, alias knowed as Simple API for XML
 SAX (Simple API for XML) is an event-driven online algorithm for parsing XML documents, with an API developed by the XML-DEV mailing list. SAX provides a mechanism for reading data from an XML document that is an alternative to that provided by the Document Object Model (DOM).
 
-- Com funciona?
-- Classes necessàries
-- Excepcions que s'han de controlar
-- Codi d'exemple de lectura des de fitxer
-- Codi d'exemple d'escriptura a fitxer
 
 # DIFERENCIES ENTRE DOM I SAX
 SAX Parser ea lets
