@@ -78,7 +78,8 @@ What’s more, it runs faster and is easier to learn than DOM Parser because its
 
 I think the answer really depends on the characteristics of your application and your current requirements.
 
-
+#
+#
 
 # XPath:
 - Què és XPath?
@@ -107,5 +108,6 @@ XQuery was devised primarily as a query language for data stored in XML form. So
 
 # REFERENCES:
 https://howtodoinjava.com/java/xml/read-xml-dom-parser-example/
+
 https://howtodoinjava.com/java/xml/sax-parser-read-xml-example/
 
