@@ -12,20 +12,33 @@ A DOM parser creates a tree structure in memory from the input document and then
 <img src=https://user-images.githubusercontent.com/91154202/200001635-86f2316a-2341-4e27-9926-141edbd132fd.png>
 </p>
      
-In below example code, I am assuming that user is already aware of the structure of employees.xml file (it’s nodes and attributes); So example directly start fetching information and start printing it in console. In real life application, we will use this information for some real purpose rather than printing it on console and leave.
+In the next exemple I try to read the XML
 
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/200003679-4edc8594-ba4a-41c9-9c5b-fec7ef97d012.png>
+<img src=https://user-images.githubusercontent.com/91154202/200190345-70425e83-d489-4946-bf06-a0c6baebaad7.png>
+</p>
+
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200190335-eb6a28ac-e0bd-487c-93e4-e4491fc18dbb.png>
 </p>
 
 Program Output:
      
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/200003808-e599ce9d-29e2-4661-aec5-8354d17b2a4c.png>
+<img src=https://user-images.githubusercontent.com/91154202/200190326-0453c9cc-0d37-49f3-80cf-7f616ae71f79.png>
 </p>
 
-
-
+In the next exemple I try to write the XML
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200190316-9b95226d-69b5-417b-a807-5eb279389d54.png>
+</p>
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200190309-980aa4bc-ad72-4233-8174-dc91369f6a2c.png>
+</p>
+Program Output:
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200190294-87192d4a-9c55-4b86-9c3e-ed0db2b1b706.png>
+</p>
 
 # SAX:
 
