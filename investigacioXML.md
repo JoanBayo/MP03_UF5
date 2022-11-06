@@ -117,10 +117,3 @@ XQuery was devised primarily as a query language for data stored in XML form. So
 - Posa un exemple de com consultar els CDs més barats de 10$
 
 
-
-
-# REFERENCES:
-https://howtodoinjava.com/java/xml/read-xml-dom-parser-example/
-
-https://howtodoinjava.com/java/xml/sax-parser-read-xml-example/
-
