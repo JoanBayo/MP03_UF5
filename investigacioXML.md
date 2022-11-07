@@ -49,14 +49,36 @@ SAX parser does not create any internal structure. Instead, it takes the occurre
 Now in the below example code, let us write some code to test whether our handler is actually working.
 
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/200005982-f6867a0a-cff6-4eeb-a6d0-98cb584f22d2.png>
+<img src=https://user-images.githubusercontent.com/91154202/200352473-d055959c-94fc-460f-9832-553f7bc6884d.png>
 </p>
 
 Program Output:
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/200006674-cbd421f6-4493-4c28-9ad5-e41ae81d4127.png>
+<img src=https://user-images.githubusercontent.com/91154202/200352523-829eff52-4664-45e1-a495-37d13ba083d8.png>
 </p>
 
+Program Output:
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200352554-4ca7ac1a-59c6-4d66-9509-5591c853f7c0.png>
+</p>
+
+Program Output:
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200352630-84169c2e-d628-4e10-9ee2-a0e82af170ef.png>
+</p>
+
+Program Output:
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200352669-f37c7478-5d4e-4716-95fd-15a6db4037ae.png>
+</p>
+
+Program Output:
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200352695-5daa572c-84ef-4dff-8520-6dd5e95ec0fa.png>
+</p>
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200352777-224ba37d-7ca7-4118-903a-145024f86020.png>
+</p>
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/200338571-5d47f32c-a2ef-4026-a11f-134e4c3cdaf4.png>
 </p>
