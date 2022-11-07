@@ -106,12 +106,11 @@ XPath stands for XML Path Language. It uses a non-XML syntax to provide a flexib
 
 - Posa un exemple de com consultar els CDs anteriors a 1990
 
-Program Output:
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/200331995-4b88efa4-30de-4f61-bcfe-00838928ab9e.png>
 </p>
 
-Output:
+
 Program Output:
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/200332135-38ddcdaa-cbb1-447f-8d02-3a791df52daf.png>
