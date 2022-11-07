@@ -57,6 +57,9 @@ Program Output:
 <img src=https://user-images.githubusercontent.com/91154202/200006674-cbd421f6-4493-4c28-9ad5-e41ae81d4127.png>
 </p>
 
+<p align=center>
+<img src=https://user-images.githubusercontent.com/91154202/200338571-5d47f32c-a2ef-4026-a11f-134e4c3cdaf4.png>
+</p>
 
 
 # DIFERENCE BETWEEN DOM AND SAX
